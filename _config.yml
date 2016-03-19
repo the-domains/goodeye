@@ -1,0 +1,28 @@
+name: goodeye
+favicon: null
+layout_spectrum: 0.33422390348277986
+typography_spectrum: 0.9394486867822707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1566692804917693
+  lightness: 0.8740896070376039
+  saturation: 0.7861457937397063
+  rhythmicContrast: 0.21507480391301215
+purpose: []
